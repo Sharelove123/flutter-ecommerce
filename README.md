@@ -18,6 +18,26 @@ This Flutter eCommerce project is a learning journey for beginners, aimed at cre
 - **Dashboard**: Sellers have access to a dashboard where they can see their uploaded products.
 - **Order History**: Customers can view their order history.
 
+
+
+## Bug Fixes
+
+- **Fix Search Product Bug**: Resolved an issue where the search functionality was not returning accurate results.
+- **Add Better Way for Product Quantity**: Implemented a more user-friendly method for selecting product quantities.
+- **Display Product Created Time**: Added functionality to display the creation time of products.
+- **Fix Product Quantity in Cart**: Corrected a bug where the product quantity in the cart was not updating correctly.
+
+
+
+
+## Todo List
+
+- **Implement Review Feature**: Add a review feature to allow customers to leave feedback on products.
+- **Enhance Dashboard Functionality**: Introduce additional functionalities to the dashboard for sellers.
+- **Improve Code Readability**: Refactor code to make it more readable and decompose pages into proper widgets.
+
+
+
 ## About
 
 This project is created by ShareLove. As a beginner, I'm learning Flutter by building this eCommerce application. It's an ongoing project, and I welcome any feedback or suggestions to improve it further.
