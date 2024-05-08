@@ -20,15 +20,13 @@ This Flutter eCommerce project is a learning journey for beginners, aimed at cre
 
 
 
-## Bug Fixes
+## Bug Fixes (To Be Addressed)
 
-- **Fix Search Product Bug**: Resolved an issue where the search functionality was not returning accurate results.
-- **Add Better Way for Product Quantity**: Implemented a more user-friendly method for selecting product quantities.
-- **Display Product Created Time**: Added functionality to display the creation time of products.
-- **Fix Product Quantity in Cart**: Corrected a bug where the product quantity in the cart was not updating correctly.
-
-
-
+- **Fix Search Product Bug**: There is an ongoing issue where the search functionality is not returning accurate results.
+- **Add Better Way for Product Quantity**: Currently, there's room for improvement in the method for selecting product quantities.
+- **Display Product Created Time**: The feature to display the creation time of products is not implemented yet.
+- **Fix Product Quantity in Cart**: There is a bug where the product quantity in the cart is not updating correctly.
+***I will Fix it Later***
 
 ## Todo List
 
