@@ -35,6 +35,8 @@ This Flutter eCommerce project is a learning journey for beginners, aimed at cre
 - **Implement Review Feature**: Add a review feature to allow customers to leave feedback on products.
 - **Enhance Dashboard Functionality**: Introduce additional functionalities to the dashboard for sellers.
 - **Improve Code Readability**: Refactor code to make it more readable and decompose pages into proper widgets.
+- **Implement Payment Functionalities**: Integrate payment gateways to enable users to make purchases securely.
+
 
 
 
