@@ -28,7 +28,7 @@ This Flutter eCommerce project is a learning journey for beginners, aimed at cre
 - **Fix Product Quantity in Cart**: There is a bug where the product quantity in the cart is not updating correctly.
 
 
-## Todo List
+## Todo List(I will Complete them later)
 
 - **Customize Shop Name**: Allow users to customize the name of their shop or store.
 - **Implement Review Feature**: Add a review feature to allow customers to leave feedback on products.
