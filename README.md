@@ -26,7 +26,7 @@ This Flutter eCommerce project is a learning journey for beginners, aimed at cre
 - **Add Better Way for Product Quantity**: Currently, there's room for improvement in the method for selecting product quantities.
 - **Display Product Created Time**: The feature to display the creation time of products is not implemented yet.
 - **Fix Product Quantity in Cart**: There is a bug where the product quantity in the cart is not updating correctly.
-***I will Fix it Later***
+*I will Fix it Later
 
 ## Todo List
 
