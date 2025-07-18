@@ -44,5 +44,5 @@ This Flutter eCommerce project is a learning journey for beginners, aimed at cre
 This project is created by ShareLove. As a beginner, I'm learning Flutter by building this eCommerce application. It's an ongoing project, and I welcome any feedback or suggestions to improve it further.
 
 
-https://www.youtube.com/watch?v=mIHrwDiWNkw
+
 [![Watch the video](https://youtube.com/shorts/mIHrwDiWNkw)
